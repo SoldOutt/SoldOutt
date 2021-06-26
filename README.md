@@ -6,4 +6,10 @@
 - :guitar: My hobby: play video game :video_game: :video_game: 
 
  [![SoldOutt GitHub stats](https://github-readme-stats.vercel.app/api?username=SoldOutt&theme=cobalt&show_icons=true)](https://github.com/SoldOutt)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoldOutt&layout=compact)](https://github.com/SoldOutt)
+ 
+
+
+
 
