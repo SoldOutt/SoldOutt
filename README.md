@@ -5,5 +5,5 @@
 - 📫 How to find me: https://www.facebook.com/bautroi.trongxanh.18/
 - :guitar: My hobby: play video game :video_game: :video_game: 
 
- [![SoldOutt GitHub stats](https://github-readme-stats.vercel.app/api?username=SoldOutt)](https://github.com/anuraghazra/github-readme-stats)
+ [![SoldOutt GitHub stats](https://github-readme-stats.vercel.app/api?username=SoldOutt&theme=cobalt)](https://github.com/SoldOutt)
 
