@@ -5,7 +5,7 @@
 - 📫 How to find me: https://www.facebook.com/bautroi.trongxanh.18/
 - :guitar: My hobby: play video game :video_game: :video_game: 
 
- ![Kiku](anh.jpg)
+ [![Kiku](anh.jpg)](https://www.facebook.com/bautroi.trongxanh.18)
 
  [![SoldOutt GitHub stats](https://github-readme-stats.vercel.app/api?username=SoldOutt&theme=cobalt&show_icons=true)](https://github.com/SoldOutt)
  
