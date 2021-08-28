@@ -5,6 +5,7 @@
 - 📫 How to find me: https://www.facebook.com/bautroi.trongxanh.18/
 - :guitar: My hobby: play video game :video_game: :video_game: 
 - My Language : Java, C++, JavaScript
+- Framework : ReactJS, Boostrap
 
 
  [![Kiku](anh.jpg)](https://github.com/SoldOutt)
