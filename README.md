@@ -8,7 +8,7 @@
 - Framework : ReactJS, Boostrap
 
 
- [![Kiku](anh.jpg)](https://github.com/SoldOutt)
+ ![VanNam](anh.jpg)
 
  [![SoldOutt GitHub stats](https://github-readme-stats.vercel.app/api?username=SoldOutt&theme=cobalt&show_icons=true)](https://github.com/SoldOutt)
  
